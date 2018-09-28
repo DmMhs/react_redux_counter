@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 30px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+.App .App-header h1 {
+	line-height: 1rem;
+}
+.marker {
+	font-size: 3rem;
+	color: goldenrod;
+}
